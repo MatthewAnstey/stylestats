@@ -12,6 +12,7 @@
   "selectors": true,
   "averageOfIdentifier": true,
   "mostIdentifier": true,
+  "topTenMostIdentifier": true,
   "mostIdentifierSelector": true,
   "averageOfCohesion": true,
   "lowestCohesion": true,

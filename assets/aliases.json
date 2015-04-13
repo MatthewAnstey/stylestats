@@ -30,5 +30,6 @@
   "importantKeywords": "Important Keywords",
   "floatProperties": "Float Properties",
   "mediaQueries": "Media Queries",
-  "propertiesCount": "Properties Count"
+  "propertiesCount": "Properties Count",
+  "topTenMostIdentifier": "Top Ten Most Identifier Selectors"
 }
