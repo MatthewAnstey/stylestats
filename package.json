@@ -1,5 +1,5 @@
 {
-  "name": "stylestats",
+  "name": "ampersand-stylestats",
   "version": "5.1.0",
   "main": "lib/stylestats.js",
   "bin": {
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:t32k/stylestats.git"
+    "url": "git@github.com:MatthewAnstey/stylestats.git"
   },
   "license": "MIT",
   "keywords": [
